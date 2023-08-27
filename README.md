@@ -41,7 +41,7 @@ If you are using a local development environment, please follow steps below:
     ```
 4. Launch your preferred IDE to access the notebooks
 
-If you are using a web IDE Google Colaboratory, please follow instructions from `notebooks/0_dev_environment_setup.ipynb` to get started.
+If you are using [Google Colaboratory](https://colab.research.google.com/) as your web IDE, please follow instructions from `notebooks/0_dev_environment_setup.ipynb` to get started.
 
 ## Notebooks
 
