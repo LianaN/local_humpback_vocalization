@@ -1,0 +1,4 @@
+quilt3[pyarrow]
+pydub
+librosa
+soundfile
