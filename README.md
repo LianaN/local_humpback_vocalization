@@ -1,4 +1,4 @@
-# Humpback Vocalization Model Building
+# Local Humpback Whales Vocalization
 
 This repository contains a series of Jupyter notebooks designed to guide through the process of building a machine learning model for humpback whale vocalization analysis. The notebooks cover everything from setting up the development environment to data acquisition, data revision, and data preprocessing.
 
