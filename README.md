@@ -14,7 +14,7 @@ This repository uses the labeled data of humpback whale vocalizations from [Orca
 
 ## Introduction
 
-Humpback whales are known for their complex vocalizations, often referred to as "songs." Understanding these vocalizations can provide valuable insights into their behavior, social structure, and even their emotional states. This project aims to facilitate the building of a machine learning model to predict and retrieve humpback whale vocalizations from raw audio files.
+Humpback whales are known for their complex vocalizations. Understanding these vocalizations can provide valuable insights into their behavior, social structure, and even their emotional states. This project aims to facilitate the building of a machine learning model to predict and retrieve humpback whale vocalizations from raw audio files.
 
 ## Getting Started
 
