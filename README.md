@@ -1,6 +1,6 @@
 # Local Humpback Whales Vocalization
 
-This repository contains a series of Jupyter notebooks designed to guide through the process of building a machine learning model for humpback whale vocalization analysis. The notebooks cover everything from setting up the development environment to data acquisition, data revision, and data preprocessing.
+This repository contains a series of Jupyter notebooks designed to guide through the process of data preparation for building a humpback whale vocalization model. The notebooks cover everything from setting up the development environment to data acquisition, data revision, and data preprocessing.
 
 This repository uses the labeled data of humpback whale vocalizations from [Orcasound's AWS open data repository](https://open.quiltdata.com/b/acoustic-sandbox/tree/humpbacks/Emily-Vierling-Orcasound-data/Em_HW_data/flac_files/). The dataset was prepared by Emily Vierling. It includes ~9,000 labels and is based on ~YY hours of audio data from 3 days during October 03-28, 2021.
 
