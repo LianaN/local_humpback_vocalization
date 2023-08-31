@@ -49,12 +49,11 @@ If you are using a local development environment, please follow steps below:
     ```
 5. Launch your preferred IDE to access the notebooks
 
-If you are using [Google Colaboratory](https://colab.research.google.com/) as your web IDE, please follow instructions from `notebooks/0_dev_environment_setup.ipynb` to get started.
-
 6. Or if you are using linux, simply: 
     ```bash
     jupyter notebook notebooks/
     ```
+If you are using [Google Colaboratory](https://colab.research.google.com/) as your web IDE, please follow instructions from `notebooks/0_dev_environment_setup.ipynb` to get started.
 
 ## Notebooks
 
