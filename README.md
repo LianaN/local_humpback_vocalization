@@ -31,16 +31,28 @@ If you are using a local development environment, please follow steps below:
     ```bash
     git clone https://github.com/LianaN/local_humpback_vocalization.git
     ```
+
 2. Navigate to the project directory:
     ```bash
     cd local_humpback_vocalization
     ```
-3. Install the required packages:
+
+3. Create a new Python virtual environment:
+    ```bash
+    python -m venv venv
+    source venv/bin/activate
+    ```
+
+4. Install the required packages:
     ```bash
     pip install -r requirements.txt
     ```
-4. Launch your preferred IDE to access the notebooks
+5. Launch your preferred IDE to access the notebooks
 
+6. Or if you are using linux, simply: 
+    ```bash
+    jupyter notebook notebooks/
+    ```
 If you are using [Google Colaboratory](https://colab.research.google.com/) as your web IDE, please follow instructions from `notebooks/0_dev_environment_setup.ipynb` to get started.
 
 ## Notebooks
